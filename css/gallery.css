@@ -1,0 +1,192 @@
+*{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  text-decoration-color: white;
+  background-color: black;
+  color: white;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: red;
+}
+
+li a.active {
+  color: white;
+  background-color: red;
+}
+
+
+br{
+  margin: 10px;
+  padding: 10px;
+}
+
+
+
+.h1-header{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  text-align: center;
+}
+
+
+.img-header{
+  text-align: center;
+}
+
+
+
+.img-header1{
+  width: 40%;
+
+}
+
+.product-area{
+
+margin-top:10%;
+margin-bottom:5%;
+
+
+}
+
+.row{
+  text-align: center;
+}
+
+.h1-head{
+  margin-top: 5%;
+  text-align: center;
+  margin-bottom: 5%;
+  font-size: 65px;
+}
+
+
+.h1-col{
+
+}
+
+.col1{
+
+}
+
+.img-size{
+  width:80%;
+}
+
+.shirts-1{
+  text-align: center;
+  column-count: 2;
+  column-gap: 0px;
+
+
+
+}
+
+
+.shirts-2{
+  text-align: center;
+  column-count: 2;
+  column-gap: 0px;
+
+
+
+}
+
+
+
+
+
+.bio{
+margin-bottom: 5%;
+}
+
+.listing{
+
+}
+
+
+
+.img-size-1{
+  width: 100%;
+}
+
+.header{
+  text-align: center;
+}
+
+.header-2{
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+
+
+.img-size-1-2{
+  width: 45%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 10%;
+}
+
+
+.img-2-1{
+  margin-bottom: 5%;
+}
+
+
+
+.suad-1{
+  column-count: 2;
+
+
+}
+
+.suad-img{
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.img-squad{
+  width: 70%;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+.squad-sizes{
+ margin-bottom: 5%;
+}
+
+
+.space-1{
+  text-align: center;
+}
+
+.img-pack-1{
+  text-align: center;
+  width: 10%;
+}
+
+p{
+  text-align: center;
+}

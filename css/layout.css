@@ -1,0 +1,115 @@
+*{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  text-decoration-color: white;
+  background-color: black;
+  color: white;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: red;
+}
+
+li a.active {
+  color: white;
+  background-color: red;
+}
+
+
+br{
+  margin: 10px;
+  padding: 10px;
+}
+
+
+.h1-header{
+  margin-bottom: 10%;
+}
+
+
+.img-header{
+  text-align: center;
+}
+
+
+
+.img-header1{
+  width: 40%;
+
+}
+
+.product-area{
+
+margin-top:10%;
+margin-bottom:5%;
+
+
+}
+
+.row{
+  text-align: center;
+}
+
+.h1-head{
+  margin-top: 5%;
+  text-align: center;
+  margin-bottom: 5%;
+  font-size: 65px;
+}
+
+
+.h1-col{
+
+}
+
+.col1{
+
+}
+
+.img-size{
+  width:80%;
+}
+
+.shirts-1{
+  column-count: 1;
+  column-gap: 0px;
+
+
+
+}
+
+
+.bio{
+margin-bottom: 5%;
+}
+
+.listing{
+
+}
+
+
+footer{
+  margin-top: 10%;
+  text-align: center;
+}
